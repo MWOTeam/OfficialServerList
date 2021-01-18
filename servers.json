@@ -1,0 +1,10 @@
+ [
+  {
+    "NameOverride": "MWO3 US-1",
+    "HostName": "47.133.224.149"
+  },
+  {
+    "NameOverride": "MWO3 EU-1",
+    "HostName": "35.157.239.228"
+  }
+]
