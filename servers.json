@@ -8,11 +8,7 @@
     "HostName": "35.157.239.228"
   },
   {
-    "NameOverride": "Live Test",
-    "HostName": "1.2.3.4"
-  },
-  {
-    "NameOverride": "Live Test 2",
-    "HostName": "4.2.3.1"
+    "NameOverride": "Vanilla Remastered",
+    "HostName": "cpweb.mynode.host"
   }
 ]
