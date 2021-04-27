@@ -5,7 +5,11 @@
   },
   {
     "NameOverride": "MWO3 EU-1",
-    "HostName": "35.157.81.24"
+    "HostName": "35.157.81.24:1551"
+  },
+  {
+    "NameOverride": "MWO Racing",
+    "HostName": "35.157.81.24:1558"
   },
   {
     "NameOverride": "[VR] NFSMW Server",
