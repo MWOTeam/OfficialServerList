@@ -8,6 +8,10 @@
     "HostName": "35.157.239.228:1558"
   },
   {
+    "NameOverride": "MWO3 AR-1",
+    "HostName": "35.157.239.228:1553"
+  },
+  {
     "NameOverride": "[VR] NFSMW Server",
     "HostName": "cpweb.mynode.host"
   }
