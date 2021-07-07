@@ -12,6 +12,10 @@
     "HostName": "35.157.239.228:1553"
   },
   {
+    "NameOverride": "MWO3 CX-1",
+    "HostName": "35.157.239.228:1556"
+  },
+  {
     "NameOverride": "[VR] NFSMW Server",
     "HostName": "cpweb.mynode.host"
   }
