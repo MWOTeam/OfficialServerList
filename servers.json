@@ -14,9 +14,5 @@
   {
     "NameOverride": "MWO3 CX-1",
     "HostName": "165.227.147.224:1556"
-  },
-  {
-    "NameOverride": null,
-    "HostName": "178.62.67.238:1551"
   }
 ]
