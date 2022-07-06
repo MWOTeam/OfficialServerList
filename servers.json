@@ -1,23 +1,15 @@
  [
   {
     "NameOverride": null,
-    "HostName": "165.227.147.224:1551"
+    "HostName": "45.10.42.19:1551"
   },
   {
-    "NameOverride": "MWO Racing",
-    "HostName": "165.227.147.224:1558"
+    "NameOverride": null,
+    "HostName": "45.10.42.19:1558"
   },
   {
     "NameOverride": "MWO AR-1",
-    "HostName": "165.227.147.224:1553"
-  },
-  {
-    "NameOverride": "MWO CX-1",
-    "HostName": "165.227.147.224:1556"
-  },
-  {
-    "NameOverride": "Rockport RP",
-    "HostName": "165.227.147.224:1571"
+    "HostName": "45.10.42.19:1553"
   },
   {
     "NameOverride": "MWO Hispano",
