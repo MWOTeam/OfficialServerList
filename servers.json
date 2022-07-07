@@ -12,6 +12,10 @@
     "HostName": "45.10.42.19:1553"
   },
   {
+    "NameOverride": "Rockport RP",
+    "HostName": "45.10.42.19:1571"
+  },
+  {
     "NameOverride": "MWO Hispano",
     "HostName": "186.23.165.34:1551"
   }
