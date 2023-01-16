@@ -16,7 +16,7 @@
     "HostName": "45.10.42.19:1571"
   },
   {
-    "NameOverride": "MWO Hispano",
-    "HostName": "186.23.165.48:1551"
+    "NameOverride": "MWO Beta",
+    "HostName": "186.23.165.168:1551"
   }
 ]
