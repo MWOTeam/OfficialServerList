@@ -16,6 +16,10 @@
     "HostName": "45.10.42.19:1571"
   },
   {
+    "NameOverride": "MWO Career",
+    "HostName": "45.10.42.19:1561"
+  },
+  {
     "NameOverride": "MWO Beta",
     "HostName": "186.23.165.168:1551"
   }
