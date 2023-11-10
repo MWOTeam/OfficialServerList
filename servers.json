@@ -1,5 +1,9 @@
  [
   {
+    "NameOverride": "MWO Career",
+    "HostName": "45.10.42.19:1561"
+  },
+  {
     "NameOverride": null,
     "HostName": "45.10.42.19:1551"
   },
@@ -14,10 +18,6 @@
   {
     "NameOverride": "Rockport RP",
     "HostName": "45.10.42.19:1571"
-  },
-  {
-    "NameOverride": "MWO Career",
-    "HostName": "45.10.42.19:1561"
   },
   {
     "NameOverride": "MWO Beta",
