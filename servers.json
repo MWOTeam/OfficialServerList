@@ -5,15 +5,15 @@
   },
   {
     "NameOverride": null,
-    "HostName": "45.10.42.19:1551"
-  },
-  {
-    "NameOverride": null,
     "HostName": "45.10.42.19:1558"
   },
   {
     "NameOverride": "MWO AR-1",
     "HostName": "45.10.42.19:1553"
+  },
+  {
+    "NameOverride": null,
+    "HostName": "45.10.42.19:1551"
   },
   {
     "NameOverride": "Rockport RP",
