@@ -1,23 +1,23 @@
  [
   {
     "NameOverride": "MWO Career",
-    "HostName": "45.10.42.19:1561"
+    "HostName": "193.178.169.80:1561"
   },
   {
     "NameOverride": null,
-    "HostName": "45.10.42.19:1558"
+    "HostName": "193.178.169.80:1558"
   },
   {
     "NameOverride": "MWO AR-1",
-    "HostName": "45.10.42.19:1553"
+    "HostName": "193.178.169.80:1553"
   },
   {
     "NameOverride": null,
-    "HostName": "45.10.42.19:1551"
+    "HostName": "193.178.169.80:1551"
   },
   {
     "NameOverride": "Rockport RP",
-    "HostName": "45.10.42.19:1571"
+    "HostName": "193.178.169.80:1571"
   },
   {
     "NameOverride": "MWO Beta",
