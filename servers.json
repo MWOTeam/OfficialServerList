@@ -1,26 +1,18 @@
  [
   {
+    "NameOverride": "MWO Racing",
+    "HostName": "64.226.118.157:22041"
+  },
+  {
     "NameOverride": "MWO Career",
-    "HostName": "193.178.169.80:1561"
+    "HostName": "64.226.118.157:21581"
   },
   {
-    "NameOverride": null,
-    "HostName": "193.178.169.80:1558"
+    "NameOverride": "MWO Fun",
+    "HostName": "64.226.118.157:22031"
   },
   {
-    "NameOverride": "MWO AR-1",
-    "HostName": "193.178.169.80:1553"
-  },
-  {
-    "NameOverride": null,
-    "HostName": "193.178.169.80:1551"
-  },
-  {
-    "NameOverride": "Rockport RP",
-    "HostName": "193.178.169.80:1571"
-  },
-  {
-    "NameOverride": "MWO Beta",
-    "HostName": "186.23.165.168:1551"
+    "NameOverride": "MWO Drift",
+    "HostName": "64.226.118.157:22051"
   }
 ]
