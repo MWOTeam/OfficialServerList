@@ -1,18 +1,18 @@
  [
   {
     "NameOverride": "MWO Racing",
-    "HostName": "64.226.118.157:22041"
+    "HostName": "play.nfsmwo.com:22041"
   },
   {
     "NameOverride": "MWO Career",
-    "HostName": "64.226.118.157:21581"
+    "HostName": "play.nfsmwo.com:21581"
   },
   {
     "NameOverride": "MWO Fun",
-    "HostName": "64.226.118.157:22031"
+    "HostName": "play.nfsmwo.com:22031"
   },
   {
     "NameOverride": "MWO Drift",
-    "HostName": "64.226.118.157:22051"
+    "HostName": "play.nfsmwo.com:22051"
   }
 ]
